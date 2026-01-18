@@ -6,7 +6,7 @@ from app.core.balance import analyze_balance
 
 router = APIRouter()
 
-@router.post("/", response_model=AnalysisResponse)
+@router.post("/", response_model = AnalysisResponse)
 def analyze_chat(request: ChatRequest):
     messages = request.messages
 
