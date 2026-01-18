@@ -1,1 +1,17 @@
-
+{
+  "conversation_id": "sample_01",
+  "messages": [
+    {
+      "sender": "A",
+      "text": "Why didn’t you reply earlier?"
+    },
+    {
+      "sender": "B",
+      "text": "Sorry, I’ve been overwhelmed today."
+    },
+    {
+      "sender": "A",
+      "text": "I understand. That must be stressful."
+    }
+  ]
+}
