@@ -5,11 +5,15 @@
     Projected Hackathon: United Hacks V6 (Devpost)
     Author: Melvin T (https://devpost.com/melvin-tai)
 
+---
+
 ### Overview
 
 **Resonance** is an ambitious platform designed to measure, understand, and improve the quality of human interactions across digital environments. While most technology optimizes productivity and efficiency, Resonance focuses on something more fundamental: how humans communicate, feel heard, and connect with one another.
 
-*This repository contains Phase 0 of Resonance — a minimal, open-source interaction analysis engine intended to scale into a much larger ecosystem.*
+*This repository contains Phase 0 of Resonance - a minimal, open-source interaction analysis engine intended to scale into a much larger system.*
+
+---
 
 ### The Problem
 Modern communication tools often:
@@ -21,29 +25,33 @@ Modern communication tools often:
 
 Yet interaction quality directly affects:
 
-    - Mental Health,
-    - Team Performance,
-    - Education,
-    - Relationships,
-    - Global Collaboration,
-    - And much more of your life.
+    - Mental Health
+    - Team Performance
+    - Education
+    - Relationships
+    - Global Collaboration
+    - And much more of our lives.
+
+---
 
 ### The Vision
 
 Resonance aims to become a universal interaction layer that can be embedded into:
 
-    - Messaging platforms,
-    - Video conferencing tools,
-    - Educational systems,
-    - Workplace collaboration software, and
-    - Mental health and coaching tools.
+    - Messaging platforms
+    - Video conferencing tools
+    - Educational systems
+    - Workplace collaboration software
+    - Mental health and coaching tools
 
 In the long term, Resonance will:
 
     - Analyze conversations in real time
-    - Provide empathy-aware feedback,
-    - Adapt across cultures and contexts, and
-    - Help humans communicate, not just more, but better.
+    - Provide empathy-aware feedback
+    - Adapt across cultures and contexts
+    - Help humans communicate, not just more, but better
+
+---
 
 ### In This Hackathon (Phase 0)
 
@@ -67,8 +75,9 @@ This repository implements:
 
 *This is not a finished product - it is the foundation of a much larger system.*
 
-### Architecture (Scalability and Deployment)
+---
 
+### Architecture (Scalability and Deployment)
 Resonance is designed as a modular system:
 
     - Core analysis engine
@@ -78,6 +87,8 @@ Resonance is designed as a modular system:
 
 *See [docs/architecture.md](/docs/architecture.md)*
 
+---
+
 ### Roadmap (Beyond this Hackathon)
     Phase 1: Voice & meeting analysis
     Phase 2: Real-time feedback loops
@@ -86,6 +97,8 @@ Resonance is designed as a modular system:
     Phase 5: Open interaction benchmarks
 
 *See [docs/roadmap.md](/docs/roadmap.md)*
+
+---
 
 ### Ethics & Responsibility
 *Human interaction data is sensitive.*
@@ -99,7 +112,6 @@ Resonance is built with:
 
 *See [docs/ethics.md](/docs/ethics.md)*
 
+---
 
-#### Resonance intentionally dares to tackle:
-*A deeply human problem, across cultures, platforms, and contexts, at a global scale.*
-This hackathon version proves feasibility, not completeness.
+###### Resonance tackles *a deeply human problem, across cultures, platforms, and contexts, at a global scale.* This hackathon version proves feasibility, not completeness.
