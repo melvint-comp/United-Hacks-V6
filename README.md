@@ -3,7 +3,7 @@
 
     🌀 An Operating System for Human Interaction
     Projected Hackathon: United Hacks V6 (Devpost)
-    Author: Melvin T (https://devpost.com/melvin-tai)
+    Author: Melvin Tai (https://devpost.com/melvin-tai)
 
 ---
 
